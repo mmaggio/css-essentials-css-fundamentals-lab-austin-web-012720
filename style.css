@@ -34,9 +34,7 @@ nav {
 nav > a {
   background-color: lime;
 }
-#details {
-  display: block;
-  text-align: center;
+
   
 }
 #details > div {
