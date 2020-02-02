@@ -10,3 +10,8 @@ h1 {
 #featured_property {
   align-content: center;
 }
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: green;
+}
