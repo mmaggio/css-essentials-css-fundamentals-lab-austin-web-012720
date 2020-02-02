@@ -34,3 +34,15 @@ nav {
   margin-right: auto;
   width: 50%;
 }
+#details {
+  display: block;
+  
+}
+#details ~ div {
+  float: left;
+}
+
+
+
+
+
