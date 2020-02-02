@@ -31,7 +31,7 @@ nav {
   padding-left: 10px;
   padding-right: 10px;
 }
-a {
+nav > a {
   background-color: lime;
 }
 #details {
